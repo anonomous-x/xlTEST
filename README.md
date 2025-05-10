@@ -10,13 +10,15 @@ So I built a solution in MS Excel with automated creation and management of arti
 
 # Features
 
-## Assumptions
+## Assumptions and disclaimers
 
 That the user is a competent user of Microsoft Excel and can handle different worksheets and excel files created by the system.
 
 That the user is opening this in Microsoft Excel on Windows and not in other versions of compatible software like Open Office or Office Libre, etc. and possibly not MacOS. 
 
 The risk is on the user in those solutions as it has only been configured and built using the WindowsOS version of Microsoft Excel so it can be as predictable (and boring!) as possible to integrate with most computing environments and supprted tech stacks.
+
+I built this, but it was a while ago and even though I would be happy for requests for updates or feedback on the solution, it is supplied with the knowledge I will be keeping an eye out but not actively watching the project to support it.
 
 ## Project management
 
@@ -27,10 +29,6 @@ The risk is on the user in those solutions as it has only been configured and bu
 ## Execution and Run data
 
 ## Defect management
-
-# Disclaimer
-
-I built this, but it was a while ago and even though I woukd be happy for requests for updates or feedback on the solution, it is supplied with the knowledge I wont prioritise time to support it.
 
 # License
 
