@@ -14,7 +14,9 @@ So I built a solution in MS Excel with automated creation and management of arti
 
 That the user is a competent user of Microsoft Excel and can handle different worksheets and excel files created by the system.
 
-That the user is opening this in Microsoft Excel and not in other versions of compatible software like Open Office or Office Libre, etc. The risk is on the user in those solutions as it has only been configured and built using the Microsoft Excel solution so it can be as predictable and boring as possible to integrate with most office environments and supprted tech stacks.
+That the user is opening this in Microsoft Excel on Windows and not in other versions of compatible software like Open Office or Office Libre, etc. and possibly not MacOS. 
+
+The risk is on the user in those solutions as it has only been configured and built using the WindowsOS version of Microsoft Excel so it can be as predictable (and boring!) as possible to integrate with most computing environments and supprted tech stacks.
 
 ## Project management
 
